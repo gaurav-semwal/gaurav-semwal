@@ -1,13 +1,14 @@
-- 👋 Hi, I’m @gaurav-semwal
-- 👀 I’m interested in learning New Technologies, especially in mobile development and web development
-- 🌱 I’m currently learning React Native and improving my skills in JavaScript and TypeScript
-- 💞️ I’m looking to collaborate on open-source projects, mobile apps, and innovative web applications
-- 📫 How to reach me: You can contact me via email at gauravsemwal8572@gmail.com or connect with me on LinkedIn
-- ⚡ Fun fact: I love solving puzzles and often participate in coding challenges
-- 🛠️ Skills: Proficient in HTML, CSS, JavaScript, React and React Native
-- 🌟 Achievements: Completed several projects on GitHub, contributed to open-source repositories.
-- 🎯 Goals: To become a full-stack developer and contribute to impactful projects that make a difference
-- 🎨 Hobbies: In my free time i do editing on Adobe After Effects and Topaz
+-👋 Hi, I’m @gaurav-semwal
+-👀 I’m passionate about software testing and always eager to learn new tools and technologies in the QA domain
+-🌱 I’m currently learning Cypress, Playwright, and improving my skills in API testing using Postman
+-🧪 I have hands-on experience in manual testing, functional testing, UI validation, and basic automation
+-💼 I work on both web and mobile testing, with exposure to tools like Figma for design validation
+-📫 How to reach me: Contact me at gauravsemwal8572@gmail.com or connect on LinkedIn
+-🛠️ Skills: Proficient in Manual Testing, API Testing, Cypress, Postman, Figma, and JavaScript fundamentals
+-🚀 Exploring: End-to-end automation workflows, bug tracking systems, and test reporting with tools like Xray and JIRA
+-🎯 Goal: To become a skilled automation tester and contribute to high-quality, scalable testing solutions
+-⚡ Fun fact: I enjoy breaking things (in apps 😉), debugging, and learning through hands-on experimentation
+-🎨 Hobbies: I enjoy editing videos in Adobe After Effects and Topaz in my free time
 
 
 <!---
